@@ -9,6 +9,7 @@ Setup grub config.
 
 - Debian
 - Ubuntu
+- grub2
 
 ## Role Variables
 
